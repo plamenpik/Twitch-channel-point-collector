@@ -1,6 +1,6 @@
 function boxClick() {
-	if (document.querySelector('.tw-button__text')) {
-		document.querySelector('.tw-button__text').click();
+	if (document.querySelector('.claimable-bonus__icon')) {
+		document.querySelector('.claimable-bonus__icon').click();
 	}
 }
-setInterval(boxClick, 30000);
+setInterval(boxClick, 3000);
