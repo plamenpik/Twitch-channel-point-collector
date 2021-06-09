@@ -3,4 +3,4 @@ function boxClick() {
 		document.querySelector('.claimable-bonus__icon').click();
 	}
 }
-setInterval(boxClick, 3000);
+setInterval(boxClick, 7000);
